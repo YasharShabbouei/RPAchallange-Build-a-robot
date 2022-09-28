@@ -1,6 +1,6 @@
 *** Settings ***
-Documentation       Order robots from soter \n
-...                 Save the orders in Pdf with a screenshot \n
+Documentation       Order from sotre \n
+...                 Save them in Pdf with a screenshot \n
 ...                 Create Zip file \n
 ...                 Remove all recipts
 
